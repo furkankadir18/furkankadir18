@@ -76,7 +76,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=furkankadir18.furkankadir18&left_color=indigo&left_text=Profile views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=furkankadir18.furkankadir18&left_text=Profile views"  />
 </div>
 
 ###
