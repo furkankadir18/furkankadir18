@@ -58,6 +58,6 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/furkankadir18/count.svg?"  />
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d57ad218bf9a603be726b5777eee11df2ff7c1f0c4377bdb11d1523a7e80c1c2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d656c696864697a646172266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/d57ad218bf9a603be726b5777eee11df2ff7c1f0c4377bdb11d1523a7e80c1c2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d656c696864697a646172266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="furkankadir18" data-canonical-src="https://komarev.com/ghpvc/?username=furkankadir18&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 
 ###
