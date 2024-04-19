@@ -58,6 +58,6 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=furkankadir18.furkankadir18&"  />
+<img align="left" src="https://profile-counter.glitch.me/furkankadir18/count.svg?"  />
 
 ###
